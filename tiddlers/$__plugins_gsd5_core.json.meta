@@ -1,0 +1,11 @@
+author: Roma Hicks
+core-version: >=5.1.8
+created: 20150921142457352
+dependents: 
+description: TiddlyWiki5 Getting Stuff Done plugin
+list: readme
+modified: 20200330080251478
+plugin-type: plugin
+title: $:/plugins/gsd5/core
+type: application/json
+version: 0.6.0-beta
